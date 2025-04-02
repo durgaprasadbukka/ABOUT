@@ -23,16 +23,15 @@ I'm a passionate health informatics graduate with a strong foundation in data an
 
 ---
 
-## 🧪 Current Roles
+## 🧪 Professional Experience
 
-- 🧑‍🏫 **Teaching Assistant**, Project Management, Indiana University  
-- 📊 **Healthcare Data Analyst Intern**, CKM Syndrome Study  
-- 🧠 **Graduate Research Intern**, BHIRC Health Data Repository  
-- 🤝 **Knowledge Engineering Intern**, RCCCP (Summer 2024)
-
+-  🧑‍🏫 **Teaching Assistant**, Project Management, Indiana University (Jan 2025 – Present)  
+-  📊 **Healthcare Data Analyst Intern**, CKM Syndrome Study, Indiana University (Sep 2024 – Present)
+- 🧠 **Graduate Research Intern**, BHIRC Health Data Repository (Aug 2023 – Jan 2025)  
+- 🤝 **Knowledge Engineering Intern**, RCCCP – Health & Food Security (May 2024 – Aug 2024)
 ---
 
-## 📈 Recent Projects
+## 📈 Academic Projects
 
 - 🧠 **CKM Syndrome Study**: Activity data analysis using ActiGraph GT3X  
 - 🏥 **Hospital Ownership & Patient Experience**: Machine learning model insights  
@@ -60,9 +59,10 @@ Relevant Courses: Clinical Decision Support, DBMS, Statistics, Health Info Secur
 
 ## 🔍 What I'm Looking For
 
-I'm currently open to **internships**, **research collaborations**, or **full-time roles** in:
+I'm currently open to **full-time roles** in:
 
-- Health Data Science  
+- Healthcare Data Analyst
+- Healthcare Data Science  
 - Clinical Informatics  
 - Healthcare Analytics  
 - Research & Evidence-Based Practice  
