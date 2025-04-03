@@ -10,7 +10,7 @@
 
 ---
 ## 💼 About Me
-I'm a passionate health informatics graduate with a strong foundation in data analytics, clinical data research, and machine learning. I bring together medical knowledge and technical skills to build data-driven solutions for healthcare challenges — from improving clinical decision-making to tackling chronic disease management.
+I'm a passionate health informatics graduate with a strong foundation in data analytics, clinical data research, and machine learning. I bring together medical knowledge and technical skills to build data-driven solutions for healthcare challenges — from improving clinical decision-making to tackling complex, data-centric problems across patient care, quality improvement, and health system performance.
 
 ---
 
