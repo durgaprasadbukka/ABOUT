@@ -16,7 +16,7 @@ I'm a passionate health informatics graduate with a strong foundation in data an
 
 ## 🧪 Professional Experience
 -  📊 **Healthcare Data Analyst Intern**, CKM Syndrome Study, Indiana University (Sep 2024 – Present)
-- 🧠 **Graduate Research Intern**, BHIRC Health Data Repository (Aug 2023 – Jan 2025)  
+- 🧠 **Graduate Research Data Analyst Intern**, BHIRC Health Data Repository (Aug 2023 – Jan 2025)  
 - 🤝 **Knowledge Engineering Intern**, RCCCP – Health & Food Security (May 2024 – Aug 2024)
 
 ---
