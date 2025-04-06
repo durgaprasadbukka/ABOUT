@@ -24,4 +24,4 @@ I'm a passionate health informatics graduate with a strong foundation in data an
 I love translating complex clinical problems into clear, data-backed solutions—and enjoy a daily game of chess to keep my brain sharp!
 
 ---
-🌐 Thanks for stopping by! Feel free to explore my repositories below 👇
+🌐 Thanks for stopping by! Feel free to explore my repositories
