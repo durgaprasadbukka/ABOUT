@@ -16,7 +16,7 @@ I'm a passionate health informatics graduate with a strong foundation in data an
 
 ## 🧪 Professional Experience
 -  📊 **Healthcare Data Analyst Intern**, Conduct data analytics and develop an evidence-based exercise plan for an IRB-approved observational study on CKM syndrome.- Indiana University (Sep 2024 – May 2025)
-- 🧠 **Graduate Research Data Analyst Intern**, BioHealth Informatics Research Center Health Data Repository (Aug 2023 – Jan 2025)  
+- 🧠 **Graduate Research Assistant**, BioHealth Informatics Research Center Health Data Repository (Aug 2023 – Jan 2025)  
 - 🤝 **Knowledge Engineering Intern**, Randolph County Caring Community Partnership – Health & Food Security Analytics Dashboard using Power BI (May 2024 – Aug 2024)
 
 ---
