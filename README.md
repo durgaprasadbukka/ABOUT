@@ -5,8 +5,8 @@
 📧 durgaprasadbukka7@gmail.com | 📞 +1 (317) 383-9785  
 🔗 LinkedIn: https://www.linkedin.com/in/durgaprasadbukka/ 
 
-💻 Passionate about data analysis. data science, clinical informatics, and healthcare innovation  
-🛠️ Currently building a medical services app to simplify healthcare access
+💻 Passionate about data analysis, data science, clinical informatics, and healthcare innovation  
+🛠️ Currently learning and building a medical services app to simplify healthcare access
 
 ---
 ## 💼 About Me
